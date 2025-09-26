@@ -21,7 +21,9 @@ public class BuddyInfo {
     public String getAddress() {
         return this.address;
     }
-
+    public String getHello(){
+        return "Hello";
+    }
     public String getPhoneNumber() {
         return this.phoneNumber;
     }
